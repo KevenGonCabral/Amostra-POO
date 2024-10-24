@@ -8,6 +8,7 @@
   ----
   ### ✍ Como Rodar o codigo? 
 
+  * Faça download do <a>Java JDK</a>
   * Faça o download do <a>VS Code</a> e instalação.
   * Dentro do Vs Code baixe as extenções <a>Extension Pack for Java
 </a> e <a>Java IDE</a>.
